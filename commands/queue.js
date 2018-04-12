@@ -32,7 +32,7 @@ exports.conf = {
   enabled: true,
   guildOnly: true,
   aliases: ["playlist"],
-  permLevel: "Server Owner"
+  permLevel: "User"
 };
 
 exports.help = {
