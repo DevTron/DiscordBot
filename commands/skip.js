@@ -37,7 +37,7 @@ exports.run = (client, message, level) => {
     enabled: true,
     guildOnly: true,
     aliases: ["next"],
-    permLevel: "Bot Owner"
+    permLevel: "User"
   };
   
   exports.help = {
