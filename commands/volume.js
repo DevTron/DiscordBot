@@ -18,7 +18,7 @@ exports.run = (client, message, args) => {
     enabled: true,
     guildOnly: true,
     aliases: ["v", "vol"],
-    permLevel: "Server Owner"
+    permLevel: "User"
   };
   
   exports.help = {
